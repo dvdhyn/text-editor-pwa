@@ -88,3 +88,5 @@ To create a webpack build, use the command `npm run build` from the project root
 
 
 ## Deployment
+https://text-editor-pwa-1enl.onrender.com/
+![text-editor-pwa](https://github.com/dvdhyn/text-editor-pwa/assets/145178667/4f81ebb8-80e1-417b-93a3-954ff4019d97)
