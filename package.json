@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "npm install && cd server && npm install && cd ../client && npm install && concurrently \"npm run build --prefix client\" \"npm run start --prefix server\""
+    "start": "cd client && npm install && npm run build && cd ../server && npm install && npm start"
   },
   "keywords": [],
   "author": "",
