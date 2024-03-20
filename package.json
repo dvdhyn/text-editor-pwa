@@ -4,7 +4,8 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "cd client && npm install && npm run build && cd ../server && npm install && npm start"
+    "start": "cd client && npm run build && cd ../server && npm start",
+    "install": "cd server && npm i && cd ../client && npm i"
   },
   "keywords": [],
   "author": "",
